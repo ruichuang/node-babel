@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/app.js --exec babel-node --presets babel-preset-env",
+    "start": "1nodemon src/app.js --exec babel-node --presets babel-preset-env",
     "test": "echo \"Error: no test specified\" && exit 1",
     "deployTestingServer": "echo deploy onto testing server"
   },
